@@ -1,8 +1,7 @@
 # Advanced Excel Project
-[9/13/2023 7:31 PM] Shak 🧢: Objective:-
+Objective:-
 
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
-[9/13/2023 7:32 PM] Shak 🧢:
 
 Sample Insights:-
 
